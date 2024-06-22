@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajwalhr02
 - 👀 I’m interested in ..Cybersecurity/Ethical Hacking........
-- 🌱 I’m currently learning Social Engineering attacks 
+- 🌱 I’m currently learning Social Engineering attacks / Threat managements
 - 📫 How to reach me ... ping me @prajwal_hr_
 - 😄 Pronouns: ...HE
 - ⚡ Fun fact: ...
